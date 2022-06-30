@@ -95,6 +95,7 @@ body {
 /* work styles*/
 .work {
   margin-bottom: 45px;
+  width: 500px;
 }
 .work-position {
   font-style: normal;
